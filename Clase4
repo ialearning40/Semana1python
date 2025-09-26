@@ -1,0 +1,20 @@
+#name = "TaTa Mosquera"
+#last = "Jimenez"
+#print (name)
+#print ((name))
+#print (name.upper())
+#prueba ='py' in 'python'
+#print (prueba)
+#cade = "the sum of 1+2 is {0}".format (1+2)
+#print (cade)
+# clase lista
+#to_do = ["ir al hote", "ir almorzar", "visitar un museo", "voler al hotel"]
+#print (to_do)
+
+mix = ["uno", 2,3,14, True, [1,1,2]]
+print (mix)
+print (len(mix))
+#indexacion
+print ("ultimo elemento", mix[-1])
+print (mix[0:3])
+print (mix[:3])
